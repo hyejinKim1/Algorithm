@@ -5,11 +5,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Deque;
 import java.util.List;
 
-public class PuyoPuyo {
+public class BOJ11559 {
 	static char[][] board = new char[12][6];
 	static int [] dx = {0, 1, 0, -1};
 	static int [] dy = {1, 0, -1, 0};

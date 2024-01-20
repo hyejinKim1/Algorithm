@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-public class Main{
+public class BOJ15686 {
 	static int n, m, ANS = Integer.MAX_VALUE;
 	static int [][] a;
 	static ArrayList<Integer[]> chicken = new ArrayList<>();

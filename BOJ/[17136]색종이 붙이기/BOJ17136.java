@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 색종이붙이기 {
+public class BOJ17136 {
     static int [][] arr = new int[10][10];
     static int ans = Integer.MAX_VALUE;
     static int [] num = new int[6];

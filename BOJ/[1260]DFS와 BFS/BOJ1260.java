@@ -5,7 +5,7 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main{
+public class BOJ1260 {
 	static int n, m, v;
 	static ArrayList [] arr;
 	static boolean [] bv, dv;

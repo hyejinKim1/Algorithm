@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main{
+public class BOJ17070 {
     static int n, ans;
     static int [][] a;
     static boolean [][]v;

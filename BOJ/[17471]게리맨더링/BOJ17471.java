@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-public class 게리맨더링 {
+public class BOJ17471 {
 	static int n, ans= Integer.MAX_VALUE;
 	static int [][] map;
 	static int [] num;
