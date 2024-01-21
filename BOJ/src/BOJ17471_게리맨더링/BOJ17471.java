@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ17471_게리맨더링;
 
 import java.io.BufferedReader;
 import java.io.IOException;

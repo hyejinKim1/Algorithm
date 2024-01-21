@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ17136_색종이붙이기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

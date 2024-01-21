@@ -1,3 +1,5 @@
+package BOJ17070_파이프옮기기1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ11559_PuyoPuyo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

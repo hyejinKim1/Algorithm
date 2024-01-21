@@ -1,3 +1,5 @@
+package BOJ1260_DFS와BFS;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfab03c9-5e6b-4b65-b130-bbc1f64f2f9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BOJ/src/BOJ12865_평범한배낭/BOJ12865.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/[11559]Puyo Puyo/BOJ11559.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ11559_PuyoPuyo/BOJ11559.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/[1260]DFS와 BFS/BOJ1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ1260_DFS와BFS/BOJ1260.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/[15686]치킨 배달/BOJ15686.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ15686_치킨배달/BOJ15686.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/[16987]계란으로 계란치기/BOJ16987.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ16987_계란으로계란치기/BOJ16987.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/[17070]파이프 옮기기1/BOJ17070.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ17070_파이프옮기기1/BOJ17070.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/[17136]색종이 붙이기/BOJ17136.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ17136_색종이붙이기/BOJ17136.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/[17471]게리맨더링/BOJ17471.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ17471_게리맨더링/BOJ17471.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2bDDEwaMLJksbmSa0M6rrBOr9b5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/hyejin/Documents/Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/hyejin/Documents/Algorithm/BOJtest/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hyejin\Documents\Algorithm\BOJ\[12865]평범한 배낭" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfab03c9-5e6b-4b65-b130-bbc1f64f2f9a" name="Changes" comment="" />
+      <created>1705740647612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705740647612</updated>
+      <workItem from="1705740649232" duration="3650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
