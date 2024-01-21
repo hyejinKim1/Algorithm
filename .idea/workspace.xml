@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfab03c9-5e6b-4b65-b130-bbc1f64f2f9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/src/BOJ12865_평범한배낭/BOJ12865.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/[11559]Puyo Puyo/BOJ11559.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ11559_PuyoPuyo/BOJ11559.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/[1260]DFS와 BFS/BOJ1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ1260_DFS와BFS/BOJ1260.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/[15686]치킨 배달/BOJ15686.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ15686_치킨배달/BOJ15686.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/[16987]계란으로 계란치기/BOJ16987.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ16987_계란으로계란치기/BOJ16987.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/[17070]파이프 옮기기1/BOJ17070.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ17070_파이프옮기기1/BOJ17070.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/[17136]색종이 붙이기/BOJ17136.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ17136_색종이붙이기/BOJ17136.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/[17471]게리맨더링/BOJ17471.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ17471_게리맨더링/BOJ17471.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/src/BOJ12865_평범한배낭/BOJ12865.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/src/BOJ12865_평범한배낭/BOJ12865.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705740647612</updated>
-      <workItem from="1705740649232" duration="3650000" />
+      <workItem from="1705740649232" duration="7769000" />
     </task>
     <servers />
   </component>
